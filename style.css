@@ -1,0 +1,22 @@
+.code{
+    color: rgb(255, 153, 0);
+}
+.btn{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 8px;
+    border: 0px;
+    background-color: rgb(2, 116, 255);
+    color: white;
+}
+.btn2{
+    
+    border: 2px solid rgb(2, 116, 255);
+    background-color: transparent;
+    color: rgb(2, 116, 255);
+}
+div{
+    height: 100px;
+    width:  110px;
+    background-color: rgb(100, 32, 178);}
